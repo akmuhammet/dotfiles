@@ -1,0 +1,13 @@
+[user]
+	name = Akmuhammet Jumayev
+	email = akmuhammet@gmail.com
+
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[help]
+	autocorrect = 10
+
+[github]
+	user = akmuhammet
