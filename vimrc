@@ -4,6 +4,9 @@
 " Map <F5> to turn spelling on (VIM 7.0+)
 map <F5> :setlocal spell! spelllang=en_us<cr>
 
+set backupdir=~/.vim/backup//
+set directory=~/.vim/swp//
+
 " Use filetype plugins, e.g. for PHP
 filetype plugin on
 filetype indent on
